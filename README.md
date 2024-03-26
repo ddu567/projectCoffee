@@ -1,6 +1,8 @@
 # ☕ Coffee Cong
-📌[이동하기](http://13.209.201.181:8080/)
 
+<img src="https://github.com/ddu567/projectCoffee/assets/139440367/9dc00243-99b6-4102-bf18-f4c12f21a255" width="50%">
+
+📌[이동하기](http://13.209.201.181:8080/)
 
 ### 🖥 프로젝트
 - 소개: 커피 원두와 관련 도구를 구매할 수 있는 커피 관련 쇼핑몰입니다.
@@ -18,6 +20,10 @@
 - IDE: IntelliJ
 - API: Google/Naver/Kakao Login API, Daum 주소 검색
 - 라이브러리: lombok, thymeleaf(3.1.0), Spring Security, OAuth2
+
+### 🗺️ ERD
+<img src="https://github.com/ddu567/projectCoffee/assets/139440367/c4b2c8a8-49e6-4e7e-8c29-043f38c09d86" width="50%">
+
 
 
 ### 📝 코드 보기
